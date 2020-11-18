@@ -4,39 +4,39 @@
     "title": "RASTEIRA TIRA DEDO",
     "cod": "RT 0568 | 03.07.0653",
     "cover": [
-      "http://localhost:3000/assets/images/prod02.png",
-      "http://localhost:3000/assets/images/prod01.png",
-      "http://localhost:3000/assets/images/prod04.png",
-      "http://localhost:3000/assets/images/prod01.png",
-      "http://localhost:3000/assets/images/prod01.png",
-      "http://localhost:3000/assets/images/prod01.png"
+      "https://app-original.herokuapp.com/assets/images/prod02.png",
+      "https://app-original.herokuapp.com/images/prod01.png",
+      "https://app-original.herokuapp.com/assets/images/prod04.png",
+      "https://app-original.herokuapp.com/assets/images/prod01.png",
+      "https://app-original.herokuapp.com/ssets/images/prod01.png",
+      "https://app-original.herokuapp.com/assets/images/prod01.png"
     ],
     "price": "69",
     "promoPrice": "55.20",
     "description": "Rasteira em atanado soft com tira no dedo e fechamento de fivela. Possui sola sempre na cor do cabedal.",
     "recommended": [
       {
-        "cover":"http://localhost:3000/assets/images/prod02.png", 
+        "cover":"https://app-original.herokuapp.com/assets/images/prod02.png", 
         "price": "204.90"
       }, 
       {
-        "cover":"http://localhost:3000/assets/images/prod01.png", 
+        "cover":"https://app-original.herokuapp.com/assets/images/prod01.png", 
         "price": "204.90" 
       }, 
       {
-        "cover":"http://localhost:3000/assets/images/prod04.png", 
+        "cover":"https://app-original.herokuapp.com/assets/images/prod04.png", 
         "price": "204.90" 
       },
       {
-        "cover":"http://localhost:3000/assets/images/prod02.png", 
+        "cover":"https://app-original.herokuapp.com/assets/images/prod02.png", 
         "price": "204.90" 
       },
       {
-        "cover":"assets/images/prod03.png", 
+        "cover":"https://app-original.herokuapp.com/assets/images/prod03.png", 
         "price": "204.90" 
       },
       {
-        "cover":"http://localhost:3000/assets/images/prod04.png", 
+        "cover":"https://app-original.herokuapp.com/assets/images/prod04.png", 
         "price": "204.90" 
       }
     ],
