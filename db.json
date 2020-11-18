@@ -5,11 +5,11 @@
     "cod": "RT 0568 | 03.07.0653",
     "cover": [
       "https://app-original.herokuapp.com/assets/images/prod02.png",
-      "https://app-original.herokuapp.com/images/prod01.png",
+      "https://app-original.herokuapp.com/assets/images/prod01.png",
       "https://app-original.herokuapp.com/assets/images/prod04.png",
       "https://app-original.herokuapp.com/assets/images/prod01.png",
-      "https://app-original.herokuapp.com/ssets/images/prod01.png",
-      "https://app-original.herokuapp.com/assets/images/prod01.png"
+      "https://app-original.herokuapp.com/assets/images/prod01.png",
+      "https://app-original.herokuapp.com/assets/images/prod02.png"
     ],
     "price": "69",
     "promoPrice": "55.20",
