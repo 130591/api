@@ -1,0 +1,53 @@
+{
+  "products": [{
+    "id": 1,
+    "title": "RASTEIRA TIRA DEDO",
+    "cod": "RT 0568 | 03.07.0653",
+    "cover": [
+      "http://localhost:3000/assets/images/prod02.png",
+      "http://localhost:3000/assets/images/prod01.png",
+      "http://localhost:3000/assets/images/prod04.png",
+      "http://localhost:3000/assets/images/prod01.png",
+      "http://localhost:3000/assets/images/prod01.png",
+      "http://localhost:3000/assets/images/prod01.png"
+    ],
+    "price": "69",
+    "promoPrice": "55.20",
+    "description": "Rasteira em atanado soft com tira no dedo e fechamento de fivela. Possui sola sempre na cor do cabedal.",
+    "recommended": [
+      {
+        "cover":"http://localhost:3000/assets/images/prod02.png", 
+        "price": "204.90"
+      }, 
+      {
+        "cover":"http://localhost:3000/assets/images/prod01.png", 
+        "price": "204.90" 
+      }, 
+      {
+        "cover":"http://localhost:3000/assets/images/prod04.png", 
+        "price": "204.90" 
+      },
+      {
+        "cover":"http://localhost:3000/assets/images/prod02.png", 
+        "price": "204.90" 
+      },
+      {
+        "cover":"assets/images/prod03.png", 
+        "price": "204.90" 
+      },
+      {
+        "cover":"http://localhost:3000/assets/images/prod04.png", 
+        "price": "204.90" 
+      }
+    ],
+    "installmentPurchase": { "portion": 6, "value": "9.20" },
+    "colors": [
+      "blue",
+      "black",
+      "brown",
+      "purple"
+    ],
+    "size": ["33","34","35","36","37","38","39","40","41","42"]
+  }]
+}
+
