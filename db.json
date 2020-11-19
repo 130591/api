@@ -42,10 +42,10 @@
     ],
     "installmentPurchase": { "portion": 6, "value": "9.20" },
     "colors": [
+      "purple",
       "blue",
-      "black",
       "brown",
-      "purple"
+      "black"
     ],
     "size": ["33","34","35","36","37","38","39","40","41","42"]
   }]
